@@ -66,3 +66,6 @@ e[7].addEventListener("click", () => {
   result.innerHTML = resArr.join("");
   console.log(resArr);
 });
+
+// this is comment
+var x = 10;
